@@ -1,1 +1,0 @@
-[{"tag": "tree branch", "name": "Large Tree Branch", "description": "A branch from a tree. A horrible weapon", "type": "weapon", "level": "1", "value": "0", "modifier": "2", "durability": "10"}, {"tag": "large rock", "name": "Large Rock", "description": "Just a big ol' rock... made of rock", "type": "item", "value": "0"}]
